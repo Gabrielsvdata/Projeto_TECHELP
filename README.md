@@ -13,7 +13,7 @@ O desafio consiste em criar uma interface responsiva para o projeto , utilizando
 
  - O layout da página deve ser estruturado utilizando o Flexbox, permitindo que os elementos se alinhem e distribuam de forma eficiente em diferentes resoluções de tela.
 
- - Implemente tags de formulário (<form>, <input>, <textarea>) 
+ - Implemente tags de formulário (form, input, textarea) 
 
  - Utilize a propriedade  para inserir imagem de fundo
 
